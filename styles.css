@@ -27,6 +27,7 @@ body{font-size:16px;line-height:1.5}.announcement{font-size:12px}.site-header na
 @media(max-width:800px){.credential-art p{font-size:32px}}
 .credential-art p{font-size:clamp(36px,4.6vw,68px);line-height:1.28;white-space:nowrap}
 .credential-art p{line-height:1.08;word-spacing:.04em;margin:26px 0 38px}
+.credential-art{z-index:4;opacity:1;visibility:visible}.credential-art p{display:block;color:var(--ink);opacity:1;visibility:visible;position:relative;z-index:5}
 .hero-note .note-index{font-size:20px}.hero-note strong{font-size:44px}.hero-note p{font-size:24px}.info-card .card-number{font-size:20px}.info-card h3{font-size:46px}.info-card li{font-size:24px}.system-item span{font-size:20px}.system-item h3{font-size:38px}.system-item p{font-size:25px}.system-item small{font-size:20px}
 .intro-statement{line-height:1.25}
 .section-title h2,.other h2,.clients h2{line-height:1.18}
