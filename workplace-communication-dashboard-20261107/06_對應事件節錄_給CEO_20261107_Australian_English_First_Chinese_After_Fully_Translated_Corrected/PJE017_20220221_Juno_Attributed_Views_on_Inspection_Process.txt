@@ -1,0 +1,568 @@
+English dialogue
+
+[2022-02-21 10:20:34 +0800] Pony Wong
+I sent you Juno's letter.
+
+[2022-02-21 10:20:57 +0800] Pony Wong
+Please see how to improve communication with the industry.
+
+[2022-02-21 10:26:02 +0800] Pony Wong
+Moje's condition is that Jacky's test confirmed that it was OK, but he said he had to do it again before it came out.
+So how many times does Jacky have to do to get rid of the booking?
+It's not easy to order a ship, cancel or reduce the size of a ship, and it's possible to collect accel Fee, but it's not expected to be pulled off the cargo until it's closed.
+
+[2022-02-21 10:26:12 +0800] Pony Wong
+Please check if this needs to be tested again as soon as possible.
+
+[2022-02-21 10:35:25 +0800] 8:jacky0968141
+If it's still in the warehouse, I'll test it.
+
+[2022-02-21 10:36:07 +0800] Pony Wong
+If you've tested it, you won't have to.
+
+[2022-02-21 10:36:27 +0800] 8:jacky0968141
+I'm going to test the product, I'm not comfortable with the business, I'm afraid it might affect the delivery, and I'm doing my best.
+
+[1645410988] ſɐɔʞʎ: 我要驗貨，業務不舒服，怕影響出貨，我全力配合業務順利出貨
+Not exactly. It's a standard you're going to give. Back
+
+[2022-02-21 10:37:13 +0800] 8:jacky0968141
+This is the time.
+I don't do quality control at the factory.
+
+[1645411033] ſɐɔʞʎ: 現在的時期
+I don't do quality control at the factory.
+Then let's be clear. Tell us why you're testing it.
+
+[2022-02-21 10:38:14 +0800] 8:jacky0968141
+From now on, the vendor will provide
+Delivery report.
+That means starting the factory.
+
+[2022-02-21 10:38:20 +0800] Pony Wong
+Because in Skype you said no tests, no factory tests, and now you don't believe in factory tests.
+
+[2022-02-21 10:39:06 +0800] 8:jacky0968141
+I don't have to do it, but every batch of them.
+
+[1645411095] ſɐɔʞʎ: 即日起開始廠商提供
+Delivery report.
+That means starting the factory.
+Isn't that basic? That's why the factory's been responsible for it. Ren.
+
+[2022-02-21 10:39:15 +0800] 8:jacky0968141
+Yeah.
+
+[1645411147] ſɐɔʞʎ: 我不用驗，但是廠商每批都要驗
+But you said you didn't believe in the factory, so you did.
+
+[2022-02-21 10:39:31 +0800] Pony Wong
+I'm a fog.
+
+[2022-02-21 10:39:39 +0800] 8:jacky0968141
+It's just that I imposed these three things.
+They want a delivery report.
+
+[1645411180] ſɐɔʞʎ: 只是我強制這三大品項
+They want a delivery report.
+They should all have a copy of the lab.
+
+[1645411180] ſɐɔʞʎ: 只是我強制這三大品項
+They want a delivery report.
+What are the three things in your heart?
+
+[2022-02-21 10:40:53 +0800] 8:jacky0968141
+They're testing their delivery.
+I'm stationed at the factory to check all product tests.
+Two things.
+Not a word.
+
+[1645411254] ſɐɔʞʎ: 他們檢驗他們出貨的東西
+I'm stationed at the factory to check all product tests.
+Two things.
+Not a word.
+But there's an industry back, for example, the factory QC is OK, and you're testing part of it.
+
+[2022-02-21 10:43:14 +0800] 8:jacky0968141
+I was stationed with them.
+Anything at the moment, if not ok, will come out by me.
+
+[2022-02-21 10:43:37 +0800] 8:jacky0968141
+I'll let you and the supervisor know and discuss.
+
+[2022-02-21 10:43:52 +0800] Pony Wong
+It's acceptable for you to try every ticket again, but when will it take?
+
+[2022-02-21 10:44:15 +0800] 8:jacky0968141
+I'll take care of it.
+
+[2022-02-21 10:44:34 +0800] 8:jacky0968141
+I've been out, I won't talk.
+
+[2022-02-21 10:44:42 +0800] Pony Wong
+What were you testing today?
+
+[2022-02-21 10:44:59 +0800] 8:jacky0968141
+I'll see what happens these days.
+
+[2022-02-21 10:45:09 +0800] Pony Wong
+It'll be a few days this week.
+
+[2022-02-21 10:45:19 +0800] 8:jacky0968141
+Then decide on the order of the first check.
+
+[2022-02-21 10:45:27 +0800] Pony Wong
+I need a list of your clients and orders.
+
+[2022-02-21 10:45:36 +0800] 8:jacky0968141
+Mlc will be here tomorrow.
+
+[2022-02-21 10:45:50 +0800] Pony Wong
+Except MLC
+
+[2022-02-21 10:45:51 +0800] 8:jacky0968141
+Okay, I'll give it to them later.
+
+[2022-02-21 10:46:00 +0800] 8:jacky0968141
+Understood.
+
+[2022-02-21 10:46:32 +0800] Pony Wong
+What are the three items I need? Clients, goods, quantities, order numbers, closing days.
+
+[2022-02-21 10:46:50 +0800] 8:jacky0968141
+I won't interfere with business.
+
+[2022-02-21 10:47:01 +0800] 8:jacky0968141
+I'll take care of that.
+
+[2022-02-21 10:47:37 +0800] Pony Wong
+So far I know what's coming tomorrow.
+
+[2022-02-21 10:47:52 +0800] Pony Wong
+You first.
+
+[1645411592] Pony Wong: 我需要三大品項是哪三大?牽涉的客戶、品項、數量、訂單號碼、結關日
+Last Friday, I made an offer.
+Top beads, 2 centimeters, Mygies
+
+[2022-02-21 10:48:26 +0800] 8:jacky0968141
+I put it in the mail.
+
+[2022-02-21 10:48:44 +0800] Pony Wong
+My Gears is no longer available.
+
+[2022-02-21 10:48:50 +0800] 8:jacky0968141
+Top beads, they're more risky.
+Two centimeters.
+
+[2022-02-21 10:48:54 +0800] Pony Wong
+It's about the future.
+
+[1645411734] Pony Wong: 要驗的是未來的庫存
+Okay.
+
+[2022-02-21 10:51:58 +0800] Pony Wong
+Dear Pony,
+EDX21371C and a series of caps (By Orders), each batch of which is certified by a juvenile, can be shipped.
+In addition, Mr. Chen has just confirmed that the inventory will be tested and then entered. When each batch (by order) is shipped, essentially it will not be tested without a request.
+Jacky may not know much about the scene and may need to be asked to know more about the process at the factory.
+
+[2022-02-21 10:52:10 +0800] Pony Wong
+FMJUNO
+
+[2022-02-21 10:53:43 +0800] Pony Wong
+It's a collection. Young people only try it once, because they don't feel comfortable ordering it again.
+
+[2022-02-21 10:57:15 +0800] 8:jacky0968141
+I also asked them to provide by-order delivery reports.
+
+[2022-02-21 10:57:30 +0800] Pony Wong
+But there's a risk. You should be aware that once you're in the factory, let it go, that there's no problem. If there's a problem, the factory will say you let it go. Ren.
+
+[2022-02-21 10:58:09 +0800] 8:jacky0968141
+I'll do it. They're better.
+Because there's a problem, they'll make me take it.
+
+[1645412236] ſɐɔʞʎ: 意思一樣，代表早在實際出貨前，有檢驗而入庫，我一樣請他們提供by 訂單的出貨報告。
+They won't follow orders, so there won't be a delivery. Call.
+
+[1645412290] ſɐɔʞʎ: 我來驗，其實他們更好
+Because there's a problem, they'll make me take it.
+EDX = EDX.
+
+[2022-02-21 10:59:08 +0800] 8:jacky0968141
+I'm afraid of a birth mother's approval.
+His mother's approval, quality, inconsistent.
+
+[2022-02-21 10:59:52 +0800] Pony Wong
+So it's supposed to be the mother-in-chief, not the present.
+
+[1645412319] Pony Wong: 你代表EDX=EDX要承擔
+You're talking about the point.
+
+[2022-02-21 11:00:24 +0800] Pony Wong
+What's going to happen now?
+
+[2022-02-21 11:01:01 +0800] 8:jacky0968141
+I'm afraid there's a risk in this shipment.
+
+[2022-02-21 11:01:35 +0800] Pony Wong
+Is the stock of the top beads switched?
+
+[2022-02-21 11:01:37 +0800] 8:jacky0968141
+So far they've tested it. I need to check if it's a good product.
+
+[2022-02-21 11:02:05 +0800] 8:jacky0968141
+71, 73 is the latest.
+
+[2022-02-21 11:02:16 +0800] 8:jacky0968141
+72 to be replaced.
+
+[2022-02-21 11:02:19 +0800] Pony Wong
+New inventory?
+
+[2022-02-21 11:02:28 +0800] Pony Wong
+Did you check the mother's approval?
+
+[2022-02-21 11:02:31 +0800] 8:jacky0968141
+Yeah, I didn't know that before.
+
+[1645412552] ſɐɔʞʎ: 是呀，之前我都不知道
+How can you not know?
+
+[2022-02-21 11:02:56 +0800] 8:jacky0968141
+I'm going to need a sample to test it.
+
+[2022-02-21 11:03:15 +0800] 8:jacky0968141
+They said it was recent.
+
+[1645412576] ſɐɔʞʎ: 我今天這母批，我要抽樣數增加去檢驗
+Are you packing today?
+
+[2022-02-21 11:03:42 +0800] Pony Wong
+What's the latest shipment?
+
+[2022-02-21 11:03:57 +0800] 8:jacky0968141
+It's packed.
+
+[1645412638] ſɐɔʞʎ: 包裝好的
+I think we should try that before the package.
+
+[2022-02-21 11:05:05 +0800] 8:jacky0968141
+I'll see about that.
+
+[2022-02-21 11:05:46 +0800] Pony Wong
+What you need to talk to young people about is that there's something that's wrong with you. You need to know before you pack, so you can get the mother's approval.
+
+[1645412706] ſɐɔʞʎ: 待會我先看
+What are you looking at?
+
+[2022-02-21 11:06:06 +0800] 8:jacky0968141
+It won't affect the delivery. Please calm down.
+
+[1645412763] Pony Wong: 看什麼??
+Look at everything.
+
+[2022-02-21 11:08:35 +0800] Pony Wong
+No way.
+
+[2022-02-21 11:08:51 +0800] Pony Wong
+I need to test the purpose.
+
+[2022-02-21 11:08:57 +0800] Pony Wong
+What's the future?
+
+[2022-02-21 11:09:07 +0800] Pony Wong
+Otherwise, it's really messy.
+
+[2022-02-21 11:09:34 +0800] 8:jacky0968141
+I won't.
+Only in the office.
+I'm relaxed.
+Kids are easy.
+Business doesn't get nervous.
+
+
+中文原文
+
+[2022-02-21 10:20:34 +0800] Pony Wong
+我把Juno的信轉給你了
+
+[2022-02-21 10:20:57 +0800] Pony Wong
+請看看要如何改善跟業務們的溝通
+
+[2022-02-21 10:26:02 +0800] Pony Wong
+Moje的狀況是Jacky驗貨確認OK了才Booking，卻又說出貨前要再驗一次 (原因是因為他想驗)
+那是否可以請Jacky訂出究竟要驗貨多少次，才能放行booking?
+不然現在船很難訂，取消或材積減少都可能被收取cancel fee，實在不希望再結關前才被臨時通知貨要拉下來不能出……
+
+[2022-02-21 10:26:12 +0800] Pony Wong
+請盡快確認這個有沒有需要再驗貨
+
+[2022-02-21 10:35:25 +0800] 8:jacky0968141
+如果還在倉庫的，我立即驗貨
+
+[2022-02-21 10:36:07 +0800] Pony Wong
+若是少年已驗貨，你應該不用再驗了吧
+
+[2022-02-21 10:36:27 +0800] 8:jacky0968141
+我要驗貨，業務不舒服，怕影響出貨，我全力配合業務順利出貨
+
+[1645410988] ſɐɔʞʎ: 我要驗貨，業務不舒服，怕影響出貨，我全力配合業務順利出貨
+<<< 也不盡然，是你要給出一個標準，業務問的你要確實回
+
+[2022-02-21 10:37:13 +0800] 8:jacky0968141
+現在的時期
+我不盡信廠商的品質管制
+
+[1645411033] ſɐɔʞʎ: 現在的時期
+我不盡信廠商的品質管制
+<<< 那就要講清楚，說出你要驗貨的理由，準則，時間節點
+
+[2022-02-21 10:38:14 +0800] 8:jacky0968141
+即日起開始廠商提供
+出貨報告
+就是是指即日起，開始廠商去做
+
+[2022-02-21 10:38:20 +0800] Pony Wong
+因為你在Skype是說不用驗，工廠檢驗即可，現在又說不相信工廠的驗貨
+
+[2022-02-21 10:39:06 +0800] 8:jacky0968141
+我不用驗，但是廠商每批都要驗
+
+[1645411095] ſɐɔʞʎ: 即日起開始廠商提供
+出貨報告
+就是是指即日起，開始廠商去做
+<<< 這不是基本的嗎?所以就不是即日起，應該工廠一直以來的責任
+
+[2022-02-21 10:39:15 +0800] 8:jacky0968141
+沒錯
+
+[1645411147] ſɐɔʞʎ: 我不用驗，但是廠商每批都要驗
+<<< 但你又說你不相信工廠驗的，所以你要驗
+
+[2022-02-21 10:39:31 +0800] Pony Wong
+我也一頭霧水
+
+[2022-02-21 10:39:39 +0800] 8:jacky0968141
+只是我強制這三大品項
+他們要出貨報告
+
+[1645411180] ſɐɔʞʎ: 只是我強制這三大品項
+他們要出貨報告
+<<< 他們ISO應該都會有驗貨報告
+
+[1645411180] ſɐɔʞʎ: 只是我強制這三大品項
+他們要出貨報告
+<<< 那要說明清楚哪三大品項，你心中的三大品項是什麼??沒人知道
+
+[2022-02-21 10:40:53 +0800] 8:jacky0968141
+他們檢驗他們出貨的東西
+我駐廠稽核所有品項檢驗
+2件事情並行
+不混為一談
+
+[1645411254] ſɐɔʞʎ: 他們檢驗他們出貨的東西
+我駐廠稽核所有品項檢驗
+2件事情並行
+不混為一談
+<<< 但業務要有個依歸，比如，工廠QC就OK，你的部分是在抽驗，抽驗有不過的，再跟工廠緊急討論處理方式，然後回報
+
+[2022-02-21 10:43:14 +0800] 8:jacky0968141
+我駐廠陪著他們。
+目前任何東西，如果不ok，會由我發出。
+
+[2022-02-21 10:43:37 +0800] 8:jacky0968141
+我會先讓你與主管知道與討論
+
+[2022-02-21 10:43:52 +0800] Pony Wong
+每一票貨你都會再去抽驗，這可以接受，但抽驗的時間是要什麼時候? 若影響出貨對業務是很大的困擾
+
+[2022-02-21 10:44:15 +0800] 8:jacky0968141
+還沒出貨的，我都去掌握
+
+[2022-02-21 10:44:34 +0800] 8:jacky0968141
+已經出去的，就不談
+
+[2022-02-21 10:44:42 +0800] Pony Wong
+你今天是驗什麼??
+
+[2022-02-21 10:44:59 +0800] 8:jacky0968141
+我先看這幾天即將出貨的狀況
+
+[2022-02-21 10:45:09 +0800] Pony Wong
+這禮拜要駐廠幾天
+
+[2022-02-21 10:45:19 +0800] 8:jacky0968141
+再決定優先檢查的順序
+
+[2022-02-21 10:45:27 +0800] Pony Wong
+我需要你的驗貨清單，客戶名稱及訂單
+
+[2022-02-21 10:45:36 +0800] 8:jacky0968141
+明天Mlc也會來
+
+[2022-02-21 10:45:50 +0800] Pony Wong
+MLC除外
+
+[2022-02-21 10:45:51 +0800] 8:jacky0968141
+好，我待會跟他們提供
+
+[2022-02-21 10:46:00 +0800] 8:jacky0968141
+了解
+
+[2022-02-21 10:46:32 +0800] Pony Wong
+我需要三大品項是哪三大?牽涉的客戶、品項、數量、訂單號碼、結關日
+
+[2022-02-21 10:46:50 +0800] 8:jacky0968141
+大原則，我不会影響業務出貨
+
+[2022-02-21 10:47:01 +0800] 8:jacky0968141
+我會注意這原則
+
+[2022-02-21 10:47:37 +0800] Pony Wong
+目前我知道的有明天要出的
+
+[2022-02-21 10:47:52 +0800] Pony Wong
+你先驗這個
+
+[1645411592] Pony Wong: 我需要三大品項是哪三大?牽涉的客戶、品項、數量、訂單號碼、結關日
+<<< 上星期五，我有提出
+頂點珠，2公分方塊，Mygears
+
+[2022-02-21 10:48:26 +0800] 8:jacky0968141
+我用mail提出
+
+[2022-02-21 10:48:44 +0800] Pony Wong
+My Gears現貨不用再驗了
+
+[2022-02-21 10:48:50 +0800] 8:jacky0968141
+頂點珠，風險較大
+兩公分，還好
+
+[2022-02-21 10:48:54 +0800] Pony Wong
+要驗的是未來的庫存
+
+[1645411734] Pony Wong: 要驗的是未來的庫存
+<<< 好的
+
+[2022-02-21 10:51:58 +0800] Pony Wong
+Dear Pony,
+EDX21371C以及頂點珠造型棒系列，每批(By 訂單)經過少年抽驗合格後，即可出貨。
+→ 補充，剛剛與陳先生確認過，庫存品是會驗貨後再入庫。每批(By 訂單)出貨時，基本上元禮沒有要求是不會再驗貨的。
+Jacky可能不太了解現場，可能需要請他多了解一下工廠的作業流程。
+
+[2022-02-21 10:52:10 +0800] Pony Wong
+FMJUNO
+
+[2022-02-21 10:53:43 +0800] Pony Wong
+也就是庫存品，少年只會驗一次就入庫，因為不放心再by 訂單驗，可以理解，我會跟業務解釋
+
+[2022-02-21 10:57:15 +0800] 8:jacky0968141
+意思一樣，代表早在實際出貨前，有檢驗而入庫，我一樣請他們提供by 訂單的出貨報告。
+
+[2022-02-21 10:57:30 +0800] Pony Wong
+但，有一個風險，你要注意，一旦你駐廠驗，放行，理應沒問題，若之後有還是問題，工廠會說是你放行的，推卸責任
+
+[2022-02-21 10:58:09 +0800] 8:jacky0968141
+我來驗，其實他們更好
+因為有問題，他們會要我承擔
+
+[1645412236] ſɐɔʞʎ: 意思一樣，代表早在實際出貨前，有檢驗而入庫，我一樣請他們提供by 訂單的出貨報告。
+<<< 他們不會by 訂單檢驗，所以不會有出貨報告
+
+[1645412290] ſɐɔʞʎ: 我來驗，其實他們更好
+因為有問題，他們會要我承擔
+<<< 你代表EDX=EDX要承擔
+
+[2022-02-21 10:59:08 +0800] 8:jacky0968141
+我現在怕的是一個生產母批
+他的母批，品質狀況，不一致
+
+[2022-02-21 10:59:52 +0800] Pony Wong
+所以要驗的應該是母批入庫品而不是現在的出貨
+
+[1645412319] Pony Wong: 你代表EDX=EDX要承擔
+<<< 你也說到重點
+
+[2022-02-21 11:00:24 +0800] Pony Wong
+未來應該是驗母批，而現在出貨驗的原因是??
+
+[2022-02-21 11:01:01 +0800] 8:jacky0968141
+我怕現今出貨批，就有風險
+
+[2022-02-21 11:01:35 +0800] Pony Wong
+目前頂點珠的庫存是抽換的嗎??
+
+[2022-02-21 11:01:37 +0800] 8:jacky0968141
+目前他們驗的，我要驗證是否是品質好的貨品
+
+[2022-02-21 11:02:05 +0800] 8:jacky0968141
+71，73是最近做的
+
+[2022-02-21 11:02:16 +0800] 8:jacky0968141
+72待抽換
+
+[2022-02-21 11:02:19 +0800] Pony Wong
+新的庫存??
+
+[2022-02-21 11:02:28 +0800] Pony Wong
+你有驗母批嗎??
+
+[2022-02-21 11:02:31 +0800] 8:jacky0968141
+是呀，之前我都不知道
+
+[1645412552] ſɐɔʞʎ: 是呀，之前我都不知道
+<<< 怎會不知道??這產品有問題很久了
+
+[2022-02-21 11:02:56 +0800] 8:jacky0968141
+我今天這母批，我要抽樣數增加去檢驗
+
+[2022-02-21 11:03:15 +0800] 8:jacky0968141
+他們說是最近
+
+[1645412576] ſɐɔʞʎ: 我今天這母批，我要抽樣數增加去檢驗
+<<< 今天要包裝??
+
+[2022-02-21 11:03:42 +0800] Pony Wong
+最近要出貨的是新庫存??
+
+[2022-02-21 11:03:57 +0800] 8:jacky0968141
+包裝好的
+
+[1645412638] ſɐɔʞʎ: 包裝好的
+<<< 那包裝前應該要去驗
+
+[2022-02-21 11:05:05 +0800] 8:jacky0968141
+待會我先看
+
+[2022-02-21 11:05:46 +0800] Pony Wong
+你要跟少年溝通的是，有問題的品項是那些，安排包裝前要讓你知道，你才能安排驗母批，才不用像現在要每次出貨都要驗
+
+[1645412706] ſɐɔʞʎ: 待會我先看
+<<< 看什麼??
+
+[2022-02-21 11:06:06 +0800] 8:jacky0968141
+不會影響出貨，請安撫業務。
+
+[1645412763] Pony Wong: 看什麼??
+<<< 看實際所有的狀況
+
+[2022-02-21 11:08:35 +0800] Pony Wong
+沒辦法
+
+[2022-02-21 11:08:51 +0800] Pony Wong
+我需要驗貨的目的
+
+[2022-02-21 11:08:57 +0800] Pony Wong
+未來要怎麼驗
+
+[2022-02-21 11:09:07 +0800] Pony Wong
+不然真的很混亂
+
+[2022-02-21 11:09:34 +0800] 8:jacky0968141
+我不來驗
+只在辦公室遙控少年
+我輕鬆
+少年也輕鬆
+業務也不會緊張

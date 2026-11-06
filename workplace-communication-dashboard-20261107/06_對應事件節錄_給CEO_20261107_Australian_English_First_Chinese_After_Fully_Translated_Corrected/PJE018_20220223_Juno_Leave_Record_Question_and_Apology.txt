@@ -1,0 +1,58 @@
+English dialogue
+
+[2022-02-23 11:12:02 +0800] Edx-Juno
+Can I ask you if you're in the office right now, because I don't seem to be here, I'll ask my assistant to put the sticker on your desk.
+
+[2022-02-23 11:12:18 +0800] 8:jacky0968141
+I'm off in the morning.
+
+[2022-02-23 11:12:29 +0800] 8:jacky0968141
+The assistant contacted me.
+
+[2022-02-23 11:12:42 +0800] 8:jacky0968141
+I'll get her a treat.
+
+[2022-02-23 11:12:47 +0800] Edx-Juno
+Well, I didn't see you on the system. I don't know.
+
+[2022-02-23 11:12:56 +0800] Edx-Juno
+Sorry to interrupt your vacation.
+
+[2022-02-23 11:12:57 +0800] 8:jacky0968141
+It's okay.
+
+[2022-02-23 11:13:03 +0800] 8:jacky0968141
+I won't.
+
+[2022-02-23 11:13:15 +0800] 8:jacky0968141
+We'll be in touch.
+
+
+中文原文
+
+[2022-02-23 11:12:02 +0800] Edx-Juno
+請問你現在人在公司嗎，因為好像不在，我就請助理直接把貼紙放你桌上好了。
+
+[2022-02-23 11:12:18 +0800] 8:jacky0968141
+我早上請假
+
+[2022-02-23 11:12:29 +0800] 8:jacky0968141
+助理有聯絡到我了
+
+[2022-02-23 11:12:42 +0800] 8:jacky0968141
+我會跟她拿客貼
+
+[2022-02-23 11:12:47 +0800] Edx-Juno
+喔喔喔，好，因為系統上沒看到你請假，我不知道
+
+[2022-02-23 11:12:56 +0800] Edx-Juno
+不好意思，打擾你休假了
+
+[2022-02-23 11:12:57 +0800] 8:jacky0968141
+沒關係。
+
+[2022-02-23 11:13:03 +0800] 8:jacky0968141
+不會
+
+[2022-02-23 11:13:15 +0800] 8:jacky0968141
+我們保持聯繫

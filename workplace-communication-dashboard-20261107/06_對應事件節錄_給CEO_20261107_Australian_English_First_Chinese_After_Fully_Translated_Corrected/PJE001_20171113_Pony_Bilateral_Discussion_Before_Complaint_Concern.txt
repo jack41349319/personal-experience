@@ -1,0 +1,50 @@
+English dialogue
+
+[2017-11-13 10:08:00 +0800] Pony Wong
+I'll talk to Sharon today, see what happens to her, and see if we can talk together. Talk.
+
+[2017-11-13 10:17:00 +0800] Jacky
+I suggest we both.
+Talk about it at noon or before work.
+Then you talk to her.
+
+[2017-11-13 10:28:00 +0800] Pony Wong
+Oh, no.
+
+[2017-11-13 10:28:00 +0800] Pony Wong
+That way he'll think you're talking.
+
+[2017-11-13 10:28:00 +0800] Pony Wong
+I'm not saying you told me.
+
+[2017-11-13 10:29:00 +0800] Pony Wong
+I'd say someone told me.
+
+[2017-11-13 10:39:00 +0800] Jacky
+Okay.
+
+
+中文原文
+
+[2017-11-13 10:08:00 +0800] Pony Wong
+我今天會先跟Sharon聊聊，先了解她那邊的狀況，再看是否要三個人一起談談.
+
+[2017-11-13 10:17:00 +0800] Jacky
+建議我們2人
+中午或下班前先談一下
+之後你再找她聊
+
+[2017-11-13 10:28:00 +0800] Pony Wong
+不
+
+[2017-11-13 10:28:00 +0800] Pony Wong
+那樣他會覺得你在告狀
+
+[2017-11-13 10:28:00 +0800] Pony Wong
+辦公室已有人發現你們有點不對盤，所以我不會說是你跟我說的
+
+[2017-11-13 10:29:00 +0800] Pony Wong
+我會說是別人跟我說的
+
+[2017-11-13 10:39:00 +0800] Jacky
+好的

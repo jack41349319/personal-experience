@@ -1,0 +1,98 @@
+English dialogue
+
+[2026-10-05 18:09:00 +0800] 吳艾薇
+I'll send you a letter later.
+
+[2026-10-05 18:13:00 +0800] 家正Jack_ISO顧問_ISTJ
+What letter?
+
+[2026-10-05 18:22:00 +0800] 吳艾薇
+Letters from home office
+
+[2026-10-05 18:23:00 +0800] 家正Jack_ISO顧問_ISTJ
+There was a mistake in my application.
+
+[2026-10-05 18:24:00 +0800] 家正Jack_ISO顧問_ISTJ
+This post is part of our special coverage Syria Protests 2011.
+18:38 Ivy Oh has withdrawn his message.
+
+[2026-10-05 18:38:00 +0800] 吳艾薇
+Did you come to the company the other day?
+
+[2026-10-05 18:39:00 +0800] 家正Jack_ISO顧問_ISTJ
+What day?
+
+[2026-10-05 18:40:00 +0800] 吳艾薇
+9/22.
+
+[2026-10-05 18:43:00 +0800] 家正Jack_ISO顧問_ISTJ
+I went out to the factory that day.
+
+[2026-10-05 18:44:00 +0800] 家正Jack_ISO顧問_ISTJ
+Go straight to the factory this morning.
+
+[2026-10-05 18:44:00 +0800] 吳艾薇
+Then you should just take a trip.
+
+[2026-10-05 18:45:00 +0800] 家正Jack_ISO顧問_ISTJ
+I didn't think about the Moto.
+
+[2026-10-05 18:50:00 +0800] 家正Jack_ISO顧問_ISTJ
+I work in a peach garden.
+It was because of mother's illness.
+So far, my father is alone in the peach garden.
+The same goes for the most part.
+I should be off tomorrow.
+
+[2026-10-05 18:51:00 +0800] 吳艾薇
+I'll take care of you.
+
+
+中文原文
+
+[2026-10-05 18:09:00 +0800] 吳艾薇
+我等等會發一封信給你
+
+[2026-10-05 18:13:00 +0800] 家正Jack_ISO顧問_ISTJ
+甚麼信
+
+[2026-10-05 18:22:00 +0800] 吳艾薇
+居家辦公的信
+
+[2026-10-05 18:23:00 +0800] 家正Jack_ISO顧問_ISTJ
+我居家申請有誤請
+
+[2026-10-05 18:24:00 +0800] 家正Jack_ISO顧問_ISTJ
+後續有改為請假。
+18:38 吳艾薇已收回訊息
+
+[2026-10-05 18:38:00 +0800] 吳艾薇
+你那天居家後來跑來公司嗎?
+
+[2026-10-05 18:39:00 +0800] 家正Jack_ISO顧問_ISTJ
+哪一天呢
+
+[2026-10-05 18:40:00 +0800] 吳艾薇
+9/22吧
+
+[2026-10-05 18:43:00 +0800] 家正Jack_ISO顧問_ISTJ
+我當天外出去工廠
+
+[2026-10-05 18:44:00 +0800] 家正Jack_ISO顧問_ISTJ
+早上直接去工廠
+
+[2026-10-05 18:44:00 +0800] 吳艾薇
+那你就請出差就好了
+
+[2026-10-05 18:45:00 +0800] 家正Jack_ISO顧問_ISTJ
+當時沒想那摩多
+
+[2026-10-05 18:50:00 +0800] 家正Jack_ISO顧問_ISTJ
+許多的居家上班，我是在桃園家上班。
+當時因為母親陪病，
+目前桃園只剩我父親一人。
+大約也是如此。
+明天我應該會請假。
+
+[2026-10-05 18:51:00 +0800] 吳艾薇
+就辛苦你了

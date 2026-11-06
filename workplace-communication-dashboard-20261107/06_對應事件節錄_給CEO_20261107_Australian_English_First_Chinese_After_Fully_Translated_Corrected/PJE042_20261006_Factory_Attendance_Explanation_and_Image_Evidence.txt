@@ -1,0 +1,116 @@
+English dialogue
+
+[2026-10-06 09:36:00 +0800] 吳艾薇
+Do you have any record of your trip to the factory on 9/22?
+
+[2026-10-06 12:36:00 +0800] 家正Jack_ISO顧問_ISTJ
+Picture
+
+[2026-10-06 12:36:00 +0800] 家正Jack_ISO顧問_ISTJ
+Picture
+
+[2026-10-06 12:36:00 +0800] 吳艾薇
+Are you going to Hwang-kyu?
+
+[2026-10-06 12:36:00 +0800] 家正Jack_ISO顧問_ISTJ
+Yeah, yeah.
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+You'll apply for a business trip next time.
+
+[2026-10-06 12:37:00 +0800] 家正Jack_ISO顧問_ISTJ
+Okay.
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+In case someone is there...
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+Ugh.
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+You're on vacation.
+
+[2026-10-06 12:37:00 +0800] 家正Jack_ISO顧問_ISTJ
+We're going out, on business, driving a bus or something.
+
+[2026-10-06 12:38:00 +0800] 家正Jack_ISO顧問_ISTJ
+It's a lot of trouble.
+
+[2026-10-06 12:38:00 +0800] 家正Jack_ISO顧問_ISTJ
+A lot of details, not examined.
+
+[2026-10-06 12:38:00 +0800] 家正Jack_ISO顧問_ISTJ
+Only people we've always been on business know that.
+
+[2026-10-06 12:39:00 +0800] 家正Jack_ISO顧問_ISTJ
+It's the system.
+It's not easy to protect.
+I'm not sure if I'm going to be able to do this.
+
+[2026-10-06 12:39:00 +0800] 家正Jack_ISO顧問_ISTJ
+I'm not sure what I'm talking about.
+
+[2026-10-06 12:40:00 +0800] 家正Jack_ISO顧問_ISTJ
+That's one of the reasons Ada's leaving.
+
+[2026-10-06 12:40:00 +0800] 吳艾薇
+Yeah.
+
+
+中文原文
+
+[2026-10-06 09:36:00 +0800] 吳艾薇
+你9/22那天去工廠有什麼記錄嗎?
+
+[2026-10-06 12:36:00 +0800] 家正Jack_ISO顧問_ISTJ
+圖片
+
+[2026-10-06 12:36:00 +0800] 家正Jack_ISO顧問_ISTJ
+圖片
+
+[2026-10-06 12:36:00 +0800] 吳艾薇
+你去享奎嗎
+
+[2026-10-06 12:36:00 +0800] 家正Jack_ISO顧問_ISTJ
+恩恩，是的
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+你下次就直接申請出差
+
+[2026-10-06 12:37:00 +0800] 家正Jack_ISO顧問_ISTJ
+好的。
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+免得有人在那邊......
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+唉
+
+[2026-10-06 12:37:00 +0800] 吳艾薇
+你好好放假
+
+[2026-10-06 12:37:00 +0800] 家正Jack_ISO顧問_ISTJ
+我們出去，出差，是否開公務車什麼的
+
+[2026-10-06 12:38:00 +0800] 家正Jack_ISO顧問_ISTJ
+都是很麻煩的
+
+[2026-10-06 12:38:00 +0800] 家正Jack_ISO顧問_ISTJ
+很多細節，沒有被檢討過。
+
+[2026-10-06 12:38:00 +0800] 家正Jack_ISO顧問_ISTJ
+只有我們常在出差的人，才有體會到。
+
+[2026-10-06 12:39:00 +0800] 家正Jack_ISO顧問_ISTJ
+這是制度。
+不容易保護，
+跳脫例行公司的職員立場。
+
+[2026-10-06 12:39:00 +0800] 家正Jack_ISO顧問_ISTJ
+而被例行工作的員工評價。
+
+[2026-10-06 12:40:00 +0800] 家正Jack_ISO顧問_ISTJ
+這是Ada要離職的其中一項原因
+
+[2026-10-06 12:40:00 +0800] 吳艾薇
+是呀

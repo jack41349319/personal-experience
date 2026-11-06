@@ -1,0 +1,76 @@
+English dialogue
+
+[2019-03-27 18:23:00 +0800] Jacky
+We'll talk to Pony about Juno before Friday. We can talk about Juno after 6:00.
+
+[2019-03-27 18:26:00 +0800] Pony Wong
+I'll talk to you tomorrow.
+
+[2019-03-27 18:29:00 +0800] Pony Wong
+You want to talk to Juno?
+
+[2019-03-27 18:29:00 +0800] Jacky
+I'll just talk to him, and I'm afraid I'll take it seriously.
+
+[2019-03-27 18:30:00 +0800] Pony Wong
+I didn't think so. He'd be pissed off.
+
+[2019-03-27 18:30:00 +0800] Jacky
+Okay, let's hear each other's thoughts.
+
+[2019-03-27 18:33:00 +0800] Pony Wong
+I just want you to know that he has a lot of opinions about you, but that's his one-sided feeling, and even if I explained it to him, he insisted on his own thinking, and he said he wasn't affected by Sharon.
+
+[2019-03-27 18:33:00 +0800] Jacky
+I should have listened to you myself.
+
+[2019-03-27 18:34:00 +0800] Pony Wong
+She's got a lot of opinions about me, too. I'll write it down and think about how to improve it.
+
+[2019-03-27 18:35:00 +0800] Jacky
+The other employees have eyes. They're just quiet.
+
+[2019-03-27 18:36:00 +0800] Jacky
+The employees are mortals, and the supervisors are mortals.
+
+[2019-03-27 18:36:00 +0800] Jacky
+Not perfect.
+
+
+中文原文
+
+[2019-03-27 18:23:00 +0800] Jacky
+這星期5前    再找時間跟Pony聊 有關Juno的事情 下班6點後談也可以 把事情說開來 。
+
+[2019-03-27 18:26:00 +0800] Pony Wong
+我明天先跟你談
+
+[2019-03-27 18:29:00 +0800] Pony Wong
+你想找juno談嗎？
+
+[2019-03-27 18:29:00 +0800] Jacky
+我直接跟他說  我怕我會把話說得很重
+
+[2019-03-27 18:30:00 +0800] Pony Wong
+我是覺得先不要，怕他也會很火大
+
+[2019-03-27 18:30:00 +0800] Jacky
+好的 我們先聽彼此的看法
+
+[2019-03-27 18:33:00 +0800] Pony Wong
+我只是讓你知道他對你有很多意見，但那是他片面的感覺，即使我跟他解釋，他依然堅持他自己的想法，而且他說他沒受sharon影響，完全是她自己的想法
+
+[2019-03-27 18:33:00 +0800] Jacky
+你都難做人。   我自己也該聽你的立場。
+
+[2019-03-27 18:34:00 +0800] Pony Wong
+她也對我有很多意見，我都有記下來，想想如何改進
+
+[2019-03-27 18:35:00 +0800] Jacky
+其他員工有眼睛 只是嘴巴緘默罷了
+
+[2019-03-27 18:36:00 +0800] Jacky
+員工是凡人 主管也是凡人
+
+[2019-03-27 18:36:00 +0800] Jacky
+沒有完美的
