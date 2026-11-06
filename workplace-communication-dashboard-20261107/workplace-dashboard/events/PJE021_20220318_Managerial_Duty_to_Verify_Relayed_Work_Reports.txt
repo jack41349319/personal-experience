@@ -1,0 +1,62 @@
+English dialogue
+
+[2022-03-18 16:35:07 +0800] Pony Wong
+I sent you Ivy's letter. I don't have time for a quality meeting with them every month. All I need is for you to know how to improve quality and give me back every week.
+
+[2022-03-18 16:38:15 +0800] 8:jacky0968141
+She hoped so, and if we did not agree, we would not need it.
+
+[1647592696] 𝙅𝙖𝙘𝙠𝙮: 她希望如此，我們如果不同意，就不需要。
+He wrote about your advice.
+
+[2022-03-18 16:39:57 +0800] Pony Wong
+I hope this doesn't happen again. I don't think it's right for you to go straight to them.
+
+[2022-03-18 16:41:52 +0800] 8:jacky0968141
+I understand.
+
+[2022-03-18 16:42:25 +0800] 8:jacky0968141
+There is a lot of privacy.
+It's a last resort.
+
+[2022-03-18 16:42:57 +0800] 8:jacky0968141
+Whether it's corporate public business.
+Or personal.
+
+[1647592798] Pony Wong: 希望這樣的事不要再發生了，我覺得妳這樣直接找他們開會，很不恰當
+That's what Ivy wanted to do. I didn't think so.
+
+[1647593043] 𝙅𝙖𝙘𝙠𝙮: 那是Ivy想這樣積極的月開會，我沒這樣的想法。
+I mean today's meeting.
+
+
+中文原文
+
+[2022-03-18 16:35:07 +0800] Pony Wong
+把Ivy的信轉給你了，我沒有時間每個月跟他們開品質會議。我只需要你掌握品質改善的進度每周回報給我。
+
+[2022-03-18 16:38:15 +0800] 8:jacky0968141
+她希望如此，我們如果不同意，就不需要。
+
+[1647592696] 𝙅𝙖𝙘𝙠𝙮: 她希望如此，我們如果不同意，就不需要。
+<<< 他信裡事說你建議的
+
+[2022-03-18 16:39:57 +0800] Pony Wong
+希望這樣的事不要再發生了，我覺得妳這樣直接找他們開會，很不恰當
+
+[2022-03-18 16:41:52 +0800] 8:jacky0968141
+我理解。
+
+[2022-03-18 16:42:25 +0800] 8:jacky0968141
+私自溝通行為太多，
+這是很不得已的做法
+
+[2022-03-18 16:42:57 +0800] 8:jacky0968141
+不管是為公司公共事務
+或個人，的考量
+
+[1647592798] Pony Wong: 希望這樣的事不要再發生了，我覺得妳這樣直接找他們開會，很不恰當
+<<< 那是Ivy想這樣積極的月開會，我沒這樣的想法。
+
+[1647593043] 𝙅𝙖𝙘𝙠𝙮: 那是Ivy想這樣積極的月開會，我沒這樣的想法。
+<<< 我是指今天的會議

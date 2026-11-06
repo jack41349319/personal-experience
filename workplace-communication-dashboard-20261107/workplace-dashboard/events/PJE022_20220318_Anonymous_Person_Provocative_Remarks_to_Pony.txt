@@ -1,0 +1,152 @@
+English dialogue
+
+[2022-03-18 18:32:50 +0800] 8:jacky0968141
+Two years down, I know, hear more than you.
+It's just that I haven't reacted to the client.
+
+[2022-03-18 18:33:18 +0800] Pony Wong
+I can't hear you anymore.
+
+[2022-03-18 18:34:55 +0800] Pony Wong
+If you speak directly to your client, it's a message. And because everyone understands differently, it becomes a lie.
+
+[2022-03-18 18:35:20 +0800] 8:jacky0968141
+Someone in the youth will tell me directly.
+
+[2022-03-18 18:35:31 +0800] 8:jacky0968141
+I just don't listen.
+
+[2022-03-18 18:36:04 +0800] Pony Wong
+For example, when you told me that Ada had a bad attitude, I asked Ada, Jacky said you had a bad attitude, and then what did you think Ada felt?
+
+[1647599720] 𝙅𝙖𝙘𝙠𝙮: 在少年有人會跟我直接透露
+It's better to listen and forget.
+
+[2022-03-18 18:36:30 +0800] 8:jacky0968141
+So let's stop listening.
+
+[2022-03-18 18:36:37 +0800] Pony Wong
+The point is to get things done. I've said it 100 times.
+
+[2022-03-18 18:39:16 +0800] 8:jacky0968141
+Yeah.
+
+[2022-03-18 18:39:17 +0800] Pony Wong
+I'll check with you about people's reactions to your work.
+
+[2022-03-18 18:39:57 +0800] Pony Wong
+That's my job.
+
+[2022-03-18 18:40:15 +0800] 8:jacky0968141
+Yes.
+
+[2022-03-18 18:40:37 +0800] 8:jacky0968141
+It's necessary.
+
+[2022-03-18 18:42:36 +0800] Pony Wong
+I think there's something to improve on this part of quality communication, so I'm going to try to use some way to relay messages to you and stop the flow of bad goods.
+
+[2022-03-18 18:43:22 +0800] 8:jacky0968141
+This is a bad communication.
+That's right.
+
+[2022-03-18 18:43:31 +0800] 8:jacky0968141
+Not enough time.
+
+[2022-03-18 18:43:48 +0800] 8:jacky0968141
+We've got too many orders in our hands.
+
+[2022-03-18 18:44:41 +0800] 8:jacky0968141
+I really don't want any bad outflows.
+
+[2022-03-18 18:45:05 +0800] 8:jacky0968141
+That's why I'm holding back.
+
+[2022-03-18 18:45:33 +0800] 8:jacky0968141
+I'll fix it.
+
+[2022-03-18 18:45:49 +0800] Pony Wong
+Yeah. But there's no gutter, so there's still an outflow.
+
+[2022-03-18 18:46:06 +0800] 8:jacky0968141
+Yes.
+
+[2022-03-18 18:47:00 +0800] Pony Wong
+If there's bad quality, we'll have to pay back every week.
+
+
+中文原文
+
+[2022-03-18 18:32:50 +0800] 8:jacky0968141
+這2年下來，我所知道，聽到的事情，比你們還更多。
+只是我沒向當事者反應過。
+
+[2022-03-18 18:33:18 +0800] Pony Wong
+聽不完啦
+
+[2022-03-18 18:34:55 +0800] Pony Wong
+你若把聽到的直接去跟當事人說，就是傳話。然後因為因為每個人理解不同，就變成造謠
+
+[2022-03-18 18:35:20 +0800] 8:jacky0968141
+在少年有人會跟我直接透露
+
+[2022-03-18 18:35:31 +0800] 8:jacky0968141
+只是我聽而不說。
+
+[2022-03-18 18:36:04 +0800] Pony Wong
+例如，你跟我說Ada態度不好，我就去問Ada，Jacky說你態度不好，然後，你覺得Ada的感受是什麼??
+
+[1647599720] 𝙅𝙖𝙘𝙠𝙮: 在少年有人會跟我直接透露
+<<< 最好聽了就忘了
+
+[2022-03-18 18:36:30 +0800] 8:jacky0968141
+所以大家就不要再亂聽了
+
+[2022-03-18 18:36:37 +0800] Pony Wong
+重點是把事情做好，我講了100次了
+
+[2022-03-18 18:39:16 +0800] 8:jacky0968141
+是的。
+
+[2022-03-18 18:39:17 +0800] Pony Wong
+對於別人反應你工作沒做好的事，我會跟你核對
+
+[2022-03-18 18:39:57 +0800] Pony Wong
+那是我的職責
+
+[2022-03-18 18:40:15 +0800] 8:jacky0968141
+是的
+
+[2022-03-18 18:40:37 +0800] 8:jacky0968141
+這是必須的
+
+[2022-03-18 18:42:36 +0800] Pony Wong
+在品質溝通這個部分，我覺得有待改善，所以嘗試用一些方式，來佈達續訊息給大家，可以攔截不良品外流
+
+[2022-03-18 18:43:22 +0800] 8:jacky0968141
+這次是這樣的溝通不當
+造成的，沒錯
+
+[2022-03-18 18:43:31 +0800] 8:jacky0968141
+及時性不夠
+
+[2022-03-18 18:43:48 +0800] 8:jacky0968141
+我們手上的訂單又太多 剛好被影響到
+
+[2022-03-18 18:44:41 +0800] 8:jacky0968141
+我是真的不想有任何一批不良流出
+
+[2022-03-18 18:45:05 +0800] 8:jacky0968141
+所以我抵擋的很緊
+
+[2022-03-18 18:45:33 +0800] 8:jacky0968141
+我會再改善
+
+[2022-03-18 18:45:49 +0800] Pony Wong
+是的。但並沒有橫向溝痛，所以還是有外流
+
+[2022-03-18 18:46:06 +0800] 8:jacky0968141
+是的
+
+[2022-03-18 18:47:00 +0800] Pony Wong
+若有品質不良發生時，每周要有進度回報，現階段你可以回報給我，我整理發信給大家

@@ -1,0 +1,30 @@
+English dialogue
+
+[1694563459] Jacky: Pony早安：這二天車子有點問題，今天白天會去修車，報備請假一天。
+Remember to leave.
+
+[2023-09-14 09:13:02 +0800] 8:jacky0968141
+Good morning.
+Okay, thanks for the reminder.
+
+[2023-09-14 09:15:16 +0800] Pony Wong
+Try not to let the other departments remind you that it's both a problem and a problem. Sensor.
+
+[2023-09-14 09:16:52 +0800] 8:jacky0968141
+All right. I'm careful not to.
+
+
+中文原文
+
+[1694563459] Jacky: Pony早安：這二天車子有點問題，今天白天會去修車，報備請假一天。
+<<< 請記得請假
+
+[2023-09-14 09:13:02 +0800] 8:jacky0968141
+早安，
+好的，感謝提醒ㄝ。
+
+[2023-09-14 09:15:16 +0800] Pony Wong
+盡量不要讓別的部門提醒，一方面造成作業困擾，一方面讓人有不好的觀感
+
+[2023-09-14 09:16:52 +0800] 8:jacky0968141
+好的。我注意避免。
