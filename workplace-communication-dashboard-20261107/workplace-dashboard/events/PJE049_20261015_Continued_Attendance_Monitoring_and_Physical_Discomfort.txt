@@ -8,10 +8,6 @@ Two years before, I thought the people concerned had improved.
 Specific employees, tracking other ministry employees.
 I have to say, it's terrible.
 
-[2026-10-15 09:08:00 +0800] Jacky Lin
-My blood pressure has been rising recently, and the random headaches are very severe.
-Sleeping in bed is not easy.
-
 [2026-10-15 09:09:00 +0800] Pony Wong
 Yeah. But my approach is to ignore him, and if he challenges me, I will have my approach. You don't have to fight her.
 
@@ -64,10 +60,6 @@ I know.
 [2026-10-15 09:08:00 +0800] Jacky Lin
 特定有員工，追蹤其他部門員工。
 我必須說：真的很可怕。
-
-[2026-10-15 09:08:00 +0800] Jacky Lin
-我的血壓最近上升，隨機突發頭很痛。
-睡覺躺床，無法容易入睡。
 
 [2026-10-15 09:09:00 +0800] Pony Wong
 是的。但我的作法是忽略他，若他來挑戰我，我會有我的作法。你不需去對抗她
