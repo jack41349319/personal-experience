@@ -44,12 +44,6 @@ This is the responsibility of the General Manager. And act.
 [2026-10-06 12:44:00 +0800] 吳艾薇
 That's her.
 
-[2026-10-06 12:44:00 +0800] 家正Jack_ISO顧問_ISTJ
-You can intercept my content and show it to anyone.
-
-[2026-10-06 12:45:00 +0800] 家正Jack_ISO顧問_ISTJ
-I am responsible for everything.
-
 [2026-10-06 12:45:00 +0800] 吳艾薇
 I'm glad I saw it. I'll just turn her down.
 
@@ -110,12 +104,6 @@ Avoid whispering.
 
 [2026-10-06 12:49:00 +0800] 吳艾薇
 She sent me and P.
-
-[2026-10-06 12:49:00 +0800] 家正Jack_ISO顧問_ISTJ
-We can all leave.
-
-[2026-10-06 12:49:00 +0800] 家正Jack_ISO顧問_ISTJ
-Anytime.
 
 [2026-10-06 12:49:00 +0800] 吳艾薇
 Paste
@@ -192,12 +180,6 @@ I'll just change my business.
 [2026-10-06 12:44:00 +0800] 吳艾薇
 就是她退讓
 
-[2026-10-06 12:44:00 +0800] 家正Jack_ISO顧問_ISTJ
-你可以截圖我內容，給任何人看。
-
-[2026-10-06 12:45:00 +0800] 家正Jack_ISO顧問_ISTJ
-我言行全數負責。
-
 [2026-10-06 12:45:00 +0800] 吳艾薇
 我有看到就好，我會直接回絕她的訴求
 
@@ -258,12 +240,6 @@ I'll just change my business.
 
 [2026-10-06 12:49:00 +0800] 吳艾薇
 她直接發信給我和P
-
-[2026-10-06 12:49:00 +0800] 家正Jack_ISO顧問_ISTJ
-我們這幾位可以都離職。
-
-[2026-10-06 12:49:00 +0800] 家正Jack_ISO顧問_ISTJ
-隨時。
 
 [2026-10-06 12:49:00 +0800] 吳艾薇
 貼圖
