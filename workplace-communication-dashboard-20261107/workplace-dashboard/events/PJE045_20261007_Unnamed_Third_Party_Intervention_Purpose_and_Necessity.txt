@@ -1,10 +1,5 @@
 English dialogue
 
-[2026-10-07 20:12:00 +0800] 家正Jack_ISO顧問_ISTJ
-At the very least, by next Wednesday, the holiday collection will be complete.
-Don't delay until Wednesday.
-There's nothing to talk about.
-
 [2026-10-07 20:17:00 +0800] 家正Jack_ISO顧問_ISTJ
 We don't care. It's none of his business.
 Why don't you let him down?
@@ -48,11 +43,6 @@ Mm-hmm.
 
 
 中文原文
-
-[2026-10-07 20:12:00 +0800] 家正Jack_ISO顧問_ISTJ
-最慢在下星期三前，假日收集好資料。
-別拖到 星期三後來降溫。
-談什麼都沒用了。
 
 [2026-10-07 20:17:00 +0800] 家正Jack_ISO顧問_ISTJ
 我們沒有理虧 沒關他個人的事情
